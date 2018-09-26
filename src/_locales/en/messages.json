@@ -1,0 +1,14 @@
+{
+  "extDescription": {
+    "message": "Prevent/close duplicate tabs."
+  },
+  "openUniqueTab": {
+    "message": "Open link in new tab"
+  },
+  "openBgUniqueTab": {
+    "message": "Open link in new background tab"
+  },
+  "defaultTitle": {
+    "message": "UniqueTabs\nClose duplicate tabs"
+  }
+}
